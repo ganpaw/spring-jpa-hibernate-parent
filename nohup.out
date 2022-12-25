@@ -1,0 +1,25 @@
+The disableGPU setting is set to undefined
+Not disabling GPU
+libva error: /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so init failed
+[275923:1224/181109.205806:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Main~createDefaultWorkingDir - Default working dir creation already attempted
+1671923469232 main info "Booting Postman 10.6.0, linux-5.4.0-58-generic on x64"
+1671923469234 main info "EventBus~initialize - Success"
+1671923469236 main info "Proxy configuration has not been setup"
+1671923469237 main info "CloudProxyManager~init - Success"
+1671923469248 main info "UpdateHandler~init - Success"
+1671923469251 main info "LeaderSelection: Initialized successfully"
+1671923469252 main info "VersionDependencyService: Initialized successfully"
+1671923469264 main info "LinuxAutoUpdater~Cleanup - Initial cleanup successful"
+1671923469285 main info "GPU detected VID 32902 DID 358 ACTIVE true"
+1671923470219 main info "RuntimeIPCAgent~started: Success"
+1671923472492 main info "UpdateHandler~app-update-events - Received event",{"name":"checkForElectronVersionUpdated","namespace":"appUpdate"}
+INTERCEPTOR CONNECTIVITY: Connecting to Interceptor Bridge
+InterceptorBridge: Trying to connect Native App IPC~Interceptor Bridge
+1671923472509 main info "windowManager: First requester booted successfully."
+1671923472509 main info "windowManager~restoreWindows: Restoring requester windows"
+1671923472510 main info "Main~AppEvents - Received booted event for process requester.Version undefined UI Version: undefined Desktop Platform Version: 10.6.0"
+IPCClient ~ WindowHandler: New event is received { type: 'window-opened' }
+IPCClient ~ WindowHandler: New event is received { type: 'maximize', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'unmaximize', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'maximize', windowId: 1 }
